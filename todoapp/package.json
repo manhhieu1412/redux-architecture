@@ -1,6 +1,7 @@
 {
   "name": "todoapp",
   "version": "0.1.0",
+  "description": "",
   "private": true,
   "devDependencies": {
     "react-native-scripts": "1.3.1",
@@ -22,5 +23,18 @@
     "expo": "^20.0.0",
     "react": "16.0.0-alpha.12",
     "react-native": "^0.47.0"
+  },
+  "peerDependencies": {},
+  "author": {
+    "name": "Manh Hieu",
+    "email": "manhhieu1412@gmail.com"
+  },
+  "homepage": "https://github.com/manhhieu1412/redux-architecture",
+  "bugs": {
+    "url": "https://github.com/manhhieu1412/redux-architecture/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manhhieu1412/redux-architecture.git"
   }
 }
